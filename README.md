@@ -6,5 +6,5 @@ For pris brukte jeg "Volumveid gjennomsnittspris på transaksjoner i elsertifika
 https://www.nve.no/energi/virkemidler/elsertifikater/statistikk-og-publikasjoner/arsrapporter-for-elsertifikatordningen/
 
 En bør være varsom med å dele ned i mindre grupper for å se på sertifikatutbetalinger. Det er gjort et grovt estimat for å finne ca aggregerte tall.
-Det en kan dele ned på mindre grupper er forventet årsproduksjon. 
+Det en kan dele ned på mindre grupper er forventet årsproduksjon og installert effekt. 
 
