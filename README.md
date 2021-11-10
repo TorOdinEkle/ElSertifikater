@@ -1,4 +1,4 @@
-# ElSertifikater
+# El-Sertifikater
 Et Enkelt forsøk på å beregne utbetalte el-sertifikater i Norge.
 Metode, hentet ut listen over godkjente anlegg: https://www.nve.no/energi/virkemidler/elsertifikater/elsertifikater-behandlede-anlegg/.
 Delte forventet årsproduksjon på 12 og brukte dette som et estimat på produksjon per mmnd. Her er det usikkerhet.
